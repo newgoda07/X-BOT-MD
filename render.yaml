@@ -7,7 +7,7 @@ services:
     envVars:
       - key: A-S-W-I-N-S-P-A-R-K-Y:79d80429669de5eb70b62252b8628c40 
         sync: true
-      - key: DATABASE_URL
+      - key: lib/database.db
         sync: true
-      - key: SUDO
+      - key: 917012984396
         sync: true
